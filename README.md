@@ -30,8 +30,8 @@
 # 8 - Api'de Login ve JWT İşlemi
 ![8](https://github.com/user-attachments/assets/47d548cb-f9f6-41d5-8a87-e1e30779c108)
 
-# 9 - Madde 6'nın Js Tarafında Kodlanması
+# 9 - Her Play Butonuna Tıklandığında, Token Doğrulama Talebinin Gönderilmesi
 ![9](https://github.com/user-attachments/assets/c08c3081-413e-4c74-9728-2144575a1aaf)
 
-# 10 - Madde 6'nın Api Kodları
+# 10 - Madde 9'un Karşılığı Olan Query Action
 ![10](https://github.com/user-attachments/assets/87283da8-edd8-4ca5-a0c3-336f307be091)
