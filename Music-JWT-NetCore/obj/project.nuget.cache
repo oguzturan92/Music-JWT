@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T0USv4jy1n9tKIcHZvdtpUnl00rF3489Y4xNaWheqc0L7+lHZlryqN1RdPX4hOfqB1r6O7Dz9s5HMeSJHeqPbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\proje\\Music-JWT-NetCore\\Music-JWT-NetCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oğuzhan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
